@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\migrations\\20251222182632_initdbdeptst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\migrations\\20251222182632_initdbdeptst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|c:\\users\\nishat\\documents\\asp.net core api\\crudopcf\\crudopcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A5C585F-E29E-49AF-AE53-8B3C7D7BCC1D}|CrudOpCF\\CrudOpCF.csproj|solutionrelative:crudopcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CrudOpCF\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:47:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\EF\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\Models\\Course.cs",
+              "RelativeToolTip": "CrudOpCF\\EF\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:30:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251222182632_InitDBDeptSt.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Migrations\\20251222182632_InitDBDeptSt.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\Migrations\\20251222182632_InitDBDeptSt.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Migrations\\20251222182632_InitDBDeptSt.cs",
+              "RelativeToolTip": "CrudOpCF\\Migrations\\20251222182632_InitDBDeptSt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:27:45.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\Program.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Program.cs",
+              "RelativeToolTip": "CrudOpCF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:22:43.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\EF\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\Models\\Department.cs",
+              "RelativeToolTip": "CrudOpCF\\EF\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:16:27.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "CrudOpCF\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:48:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\EF\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "CrudOpCF\\EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:54:01.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CrudOpCF\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:46:53.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOpCF\\appsettings.json",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\appsettings.json",
+              "RelativeToolTip": "CrudOpCF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T18:08:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "CrudOpCF\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\CrudOpCF\\CrudOpCF\\EF\\UMSContext.cs",
+              "RelativeToolTip": "CrudOpCF\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:05:10.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
