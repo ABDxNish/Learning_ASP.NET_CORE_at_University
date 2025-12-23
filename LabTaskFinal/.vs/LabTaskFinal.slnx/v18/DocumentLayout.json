@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\ef\\table\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\ef\\table\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\ef\\table\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\ef\\table\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|c:\\users\\nishat\\documents\\asp.net core api\\labtaskfinal\\labtaskfinal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55EC44C-E564-4D55-9691-40F81599F419}|LabTaskFinal\\LabTaskFinal.csproj|solutionrelative:labtaskfinal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LabTaskFinal\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:30:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LabTaskFinal\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswCsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:12:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "LabTaskFinal\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:03:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "LabTaskFinal\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:02:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\EF\\Table\\Product.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\EF\\Table\\Product.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\EF\\Table\\Product.cs",
+              "RelativeToolTip": "LabTaskFinal\\EF\\Table\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:54:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\EF\\Table\\Category.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\EF\\Table\\Category.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\EF\\Table\\Category.cs",
+              "RelativeToolTip": "LabTaskFinal\\EF\\Table\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:54:31.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\EF\\UMSContext.cs",
+              "RelativeToolTip": "LabTaskFinal\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:53:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\Program.cs",
+              "RelativeDocumentMoniker": "LabTaskFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\Program.cs",
+              "RelativeToolTip": "LabTaskFinal\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:52:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "LabTaskFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\NISHAT\\Documents\\ASP.NET CORE APi\\LabTaskFinal\\LabTaskFinal\\appsettings.json",
+              "RelativeToolTip": "LabTaskFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T06:51:11.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
